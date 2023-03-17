@@ -1,8 +1,10 @@
-# A list (most probably incomplete) of scientific articles I have read over the years, divided by arbitrary categories
+## A list (most probably incomplete) of scientific articles I have read over the years, divided by arbitrary categories
 
-## Machine Learning
+### Machine Learning
 
 [EfficientNet](https://arxiv.org/abs/1905.11946)
 
 [YOLO](https://arxiv.org/abs/1506.02640)
+
+[PointNet](https://arxiv.org/abs/1612.00593)
 
