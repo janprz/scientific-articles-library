@@ -10,3 +10,5 @@
 
 [R-CNN](https://arxiv.org/abs/1311.2524)
 
+[GoogLeNet](https://arxiv.org/abs/1409.4842)
+
