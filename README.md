@@ -10,5 +10,7 @@
 
 [R-CNN](https://arxiv.org/abs/1311.2524)
 
+[Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
+
 [GoogLeNet](https://arxiv.org/abs/1409.4842)
 
