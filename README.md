@@ -14,3 +14,5 @@
 
 [GoogLeNet](https://arxiv.org/abs/1409.4842)
 
+[ResNet](https://arxiv.org/pdf/1512.03385.pdf)
+
