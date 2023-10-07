@@ -2,6 +2,8 @@
 
 ### Machine Learning
 
+#### Vision
+
 [EfficientNet](https://arxiv.org/abs/1905.11946)
 
 [YOLO](https://arxiv.org/abs/1506.02640)
@@ -15,6 +17,10 @@
 [GoogLeNet](https://arxiv.org/abs/1409.4842)
 
 [ResNet](https://arxiv.org/pdf/1512.03385.pdf)
+
+#### GNNs
+
+[Everything is Connected: Graph Neural Networks](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
 
 ### Robotics
 
